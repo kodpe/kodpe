@@ -4,6 +4,13 @@
   <br />
   <img width="100" src="https://media.giphy.com/avatars/jonasnienhaus/pW2cA1M77eYr.gif" />
   <br />
+  <h3 align="center">42 cursus</h3>
+  <h5 align="center">Libft&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;:white_check_mark:</h5>
+  <h5 align="center">get_next_line&emsp;&emsp;&emsp;&emsp;:white_check_mark:</h5>
+  <h5 align="center">ft_printf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;:white_check_mark:</h5>
+  <h5 align="center">Born2beroot&emsp;&emsp;&emsp;&emsp;&nbsp;:white_check_mark:</h5>
+  <h5 align="center">push_swap&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img width="16" src="https://c.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" /> </h5>
+  
 </p>
 
 <!--
