@@ -5,7 +5,8 @@
   <img width="100" src="https://media.giphy.com/avatars/jonasnienhaus/pW2cA1M77eYr.gif" />
   <br />
   <p align="center">
-  <img src="https://img.shields.io/badge/cursus-lvl 2.11-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF" />
+    <a href="https://profile.intra.42.fr/users/sloquet">
+      <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 2.11-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20"<a/>
   </p>
   <h5 align="center">Libft&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;:white_check_mark:</h5>
   <h5 align="center">get_next_line&emsp;&emsp;&emsp;&emsp;:white_check_mark:</h5>
