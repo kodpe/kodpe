@@ -36,8 +36,8 @@
 </p>
 <p align="center">
  <img width="140" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_askyy.png" />
- <img width="113" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_snails.png" />
  <img width="120" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_gps.png" />
+ <img width="113" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_snails.png" />
   <h5> </h5>
 </p>
 <!--
