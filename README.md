@@ -9,7 +9,7 @@
  -
 -->
 <p align="center">
-  <img width="100" src="https://github.com/kodpe/kodpe/blob/main/walk.gif" />
+  <img width="100" src="https://github.com/kodpe/kodpe/blob/main/img/walk.gif" />
 </p>
 <p align="center">
   <a href="https://profile.intra.42.fr/users/sloquet">
@@ -22,7 +22,7 @@
 <p align="center">
 <h5 align="center">Libft&nbsp;:white_check_mark:</h5>
 <h5 align="center">get_next_line&nbsp;:white_check_mark:&emsp;ft_printf&nbsp;:white_check_mark:&emsp;Born2beroot&nbsp;:white_check_mark:</h5>
-  <h5 align="center">push_swap&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/load.gif" />&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/load.gif" /> </h5>
+  <h5 align="center">push_swap&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" />&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
 </p>
 <!--
 -
@@ -35,9 +35,9 @@
          </a>
 </p>
 <p align="center">
- <img width="140" src="https://github.com/kodpe/kodpe/blob/main/zsheep_askyy.png" />
- <img width="113" src="https://github.com/kodpe/kodpe/blob/main/zsheep_snails_bw.png" />
- <img width="120" src="https://github.com/kodpe/kodpe/blob/main/zsheep_gps_bw.png" />
+ <img width="140" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_askyy.png" />
+ <img width="113" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_snails.png" />
+ <img width="120" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_gps.png" />
   <h5> </h5>
 </p>
 <!--
