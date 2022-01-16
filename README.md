@@ -6,14 +6,13 @@
   <br />
   <p align="center">
     <a href="https://profile.intra.42.fr/users/sloquet">
-      <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 2.11-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20"<a/>
-  </p>
-  <h5 align="center">Libft&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;:white_check_mark:</h5>
-  <h5 align="center">get_next_line&emsp;&emsp;&emsp;&emsp;:white_check_mark:</h5>
-  <h5 align="center">ft_printf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;:white_check_mark:</h5>
-  <h5 align="center">Born2beroot&emsp;&emsp;&emsp;&emsp;&nbsp;:white_check_mark:</h5>
-  <h5 align="center">push_swap&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img width="16" src="https://c.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" /> </h5>
-  <h5 align="center">pipex&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img width="16" src="https://c.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" /> </h5>
+      <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 2.11-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20"
+           </a>
+      </p>
+<h6> </h6>
+  <h5 align="center">Libft&nbsp;:white_check_mark:</h5>
+  <h5 align="center">get_next_line&nbsp;:white_check_mark:&emsp;ft_printf&nbsp;:white_check_mark:&emsp;Born2beroot&nbsp;:white_check_mark:</h5>
+  <h5 align="center">push_swap&nbsp;<img width="13" src="https://c.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" />&emsp;pipex&nbsp;<img width="13" src="https://c.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" /> </h5>
 </p>
 <!--
 
