@@ -27,6 +27,18 @@
 <!--
 -
 -->
+<p align="center">
+ <br />
+ <br />
+  <a href="https://github.com/kodpe/zsheep">
+    <img alt="zsheep" src="https://img.shields.io/badge/ascii art-zsheep-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
+         </a>
+</p>
+<p align="center">
+ <img width="140" src="https://github.com/kodpe/kodpe/blob/main/zsheep_askyy.png" />
+ <img width="113" src="https://github.com/kodpe/kodpe/blob/main/zsheep_snails_bw.png" />
+ <img width="120" src="https://github.com/kodpe/kodpe/blob/main/zsheep_gps_bw.png" />
+</p>
 <!--
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:MAIL@gmail.com)](mailto:MAIL@gmail.com)<br>
