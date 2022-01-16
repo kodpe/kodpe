@@ -10,6 +10,7 @@
   <h5 align="center">ft_printf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;:white_check_mark:</h5>
   <h5 align="center">Born2beroot&emsp;&emsp;&emsp;&emsp;&nbsp;:white_check_mark:</h5>
   <h5 align="center">push_swap&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img width="16" src="https://c.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" /> </h5>
+  <h5 align="center">pipex&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img width="16" src="https://c.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" /> </h5>
   
 </p>
 
