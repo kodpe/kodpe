@@ -20,7 +20,7 @@
 -->
 <p align="center">
  <a href="https://profile.intra.42.fr/users/sloquet">
-    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 2.11-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
+    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 2.69-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
 </p>
 <!--
@@ -29,7 +29,7 @@
 <p align="center">
 <h5 align="center">Libft&nbsp;:white_check_mark:</h5>
 <h5 align="center">get_next_line&nbsp;:white_check_mark:&emsp;ft_printf&nbsp;:white_check_mark:&emsp;Born2beroot&nbsp;:white_check_mark:</h5>
-  <h5 align="center">push_swap&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" />&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
+  <h5 align="center">push_swap&nbsp;:white_check_mark:&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
 </p>
 <!--
 -
