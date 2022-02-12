@@ -27,9 +27,9 @@
  -
 -->
 <p align="center">
-<h5 align="center">Libft&nbsp;:white_check_mark:</h5>
-<h5 align="center">get_next_line&nbsp;:white_check_mark:&emsp;ft_printf&nbsp;:white_check_mark:&emsp;Born2beroot&nbsp;:white_check_mark:</h5>
-  <h5 align="center">push_swap&nbsp;:white_check_mark:&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
+<h5 align="center">Libft&nbsp;:heavy_check_mark:</h5>
+<h5 align="center">get_next_line&nbsp;:heavy_check_mark:&emsp;ft_printf&nbsp;:heavy_check_mark:&emsp;Born2beroot&nbsp;:heavy_check_mark:</h5>
+  <h5 align="center">push_swap&nbsp;:heavy_check_mark:&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
 </p>
 <!--
 -
