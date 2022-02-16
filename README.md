@@ -27,7 +27,6 @@
  -
 -->
 <p align="center">
- <br /><br />
   <a href="https://github.com/kodpe/zsheep">
     <img alt="zsheep" src="https://img.shields.io/badge/ascii art-zsheep-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
          </a>
