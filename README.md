@@ -27,14 +27,6 @@
  -
 -->
 <p align="center">
-<h5 align="center"></h5>
-<h5 align="center">Libft&nbsp;:heavy_check_mark:&emsp;get_next_line&nbsp;:heavy_check_mark:&emsp;ft_printf&nbsp;:heavy_check_mark:&emsp;Born2beroot&nbsp;:heavy_check_mark:</h5>
-  <h5 align="center">push_swap&nbsp;:heavy_check_mark:&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" />&emsp;FdF&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
-</p>
-<!--
--
--->
-<p align="center">
  <br /><br />
   <a href="https://github.com/kodpe/zsheep">
     <img alt="zsheep" src="https://img.shields.io/badge/ascii art-zsheep-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
@@ -50,6 +42,12 @@
 -
 -->
 <!--
+<p align="center">
+<h5 align="center"></h5>
+<h5 align="center">Libft&nbsp;:heavy_check_mark:&emsp;get_next_line&nbsp;:heavy_check_mark:&emsp;ft_printf&nbsp;:heavy_check_mark:&emsp;Born2beroot&nbsp;:heavy_check_mark:</h5>
+  <h5 align="center">push_swap&nbsp;:heavy_check_mark:&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" />&emsp;FdF&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
+</p>
+
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:MAIL@gmail.com)](mailto:MAIL@gmail.com)<br>
 on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/USER/)](https://www.linkedin.com/in/USER/)<br>
