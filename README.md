@@ -33,7 +33,7 @@
 -->
 <p align="center">
   <a href="https://github.com/kodpe/zsheep">
-    <img alt="zsheep" src="https://img.shields.io/badge/ascii art ~-zsheep-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
+    <img alt="zsheep" src="https://img.shields.io/badge/zsheep ~-0.2.8beta-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
          </a>
 </p>
 <p align="center">
