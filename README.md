@@ -23,14 +23,13 @@
     <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 2.69-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
 </p>
+<!--
 <p align="center">
  <a href="https://github.com/kodpe/42Autoh">
     <img alt="42intra" src="https://img.shields.io/badge/Autoh-0.1.7beta-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
 </p>
-<!--
- - https://github.com/kodpe/42Autoh
--->
+
 <p align="center">
   <a href="https://github.com/kodpe/zsheep">
     <img alt="zsheep" src="https://img.shields.io/badge/zsheep ~-0.2.8beta-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
@@ -42,7 +41,7 @@
  <img width="113" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_snails.png" />
   <h5> </h5>
 </p>
-<!--
+
 -
 -->
 <!--
