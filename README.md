@@ -1,12 +1,16 @@
 <!--
  - 
 -->
+
+<!-- TMP
 <p align="center">
  <a href="https://github.com/kodpe">
   <img width="360" src="https://github-readme-stats.vercel.app/api?username=kodpe&hide_title=true&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&hide_border=true&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=&border_color=&border_radius=0" />
   <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodpe&count_private=true&hide_title=true&langs_count=2&hide=html,makefile,batchfile,css&layout=compact&custom_title=Languages&hide_border=true&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=&bg_color=&border_color=&border_radius=0" />
  </a>
 </p>
+-->
+
 <!--
  -
 -->
