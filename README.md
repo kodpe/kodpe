@@ -24,7 +24,7 @@
 -->
 <p align="center">
  <a href="https://profile.intra.42.fr/users/sloquet">
-    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 4.72-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
+    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 5.28-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
 </p>
 <!--
